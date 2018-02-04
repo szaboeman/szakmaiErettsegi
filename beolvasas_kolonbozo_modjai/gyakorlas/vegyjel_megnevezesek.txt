@@ -1,0 +1,1 @@
+Rendszam, Vegyjel, Nev, Tipus, Atomtomeg, Suruseg, Ovadaspont, Forraspont, Fajhõ

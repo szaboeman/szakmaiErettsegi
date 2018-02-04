@@ -1,0 +1,21 @@
+20
+Bacs-Kiskun Kecskemet Del-Alfold 8445.15 524841  119 10 11
+Baranya Pecs Del-Dunantul 4429.6 391455  301 9 10
+Bekes Bekescsaba Del-Alfold 5631.05 361802  75 8 9
+Borsod-Abauj-Zemplen Miskolc Eszak-Magyarorszag 7247.17 684793  358 15 16
+Budapest Budapest Kozep-Magyarorszag 525.14 1744665  23 0 0
+Csongrad Szeged Del-Alfold 4262.68 421827  60 7 7
+Fejer Szekesfehervar Kozep-Dunantul 4358.76 426120  108 10 9
+Gyor-Moson-Sopron Gyor Nyugat-Dunantul 4208 449967  182 7 7
+Hajdu-Bihar Debrecen Eszak-Alfold 6210.56 539674  82 9 10
+Heves Eger Eszak-Magyarorszag 3637.25 307985  121 7 7
+Jasz-Nagykun-Szolnok Szolnok Eszak-Alfold 5581.71 386752  78 7 9
+Komarom-Esztergom Tatabanya Kozep-Dunantul 2265.08 311411  76 7 6
+Nograd Salgotarjan Eszak-Magyarorszag 2544.18 201919  131 6 6
+Pest Budapest Kozep-Magyarorszag 6393.14 1237561  187 16 18
+Somogy Kaposvar Del-Dunantul 6035.86 317947  245 11 8
+Szabolcs-Szatmar-Bereg Nyiregyhaza Eszak-Alfold 5936.45 552000  229 12 13
+Tolna Szekszard Del-Dunantul 3703.31 231183  109 5 6
+Vas Szombathely Nyugat-Dunantul 3336.2 257688  216 9 7
+Veszprem Veszprem Kozep-Dunantul 4493 353068  217 9 10
+Zala Zalaegerszeg Nyugat-Dunantul 3784.11 287043  257 9 6
