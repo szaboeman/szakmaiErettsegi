@@ -1,0 +1,11 @@
+azon	nev	szomax	irmax
+1	Magyar nyelv és irodalom	50	100
+2	Történelem	60	90
+3	Matematika	35	115
+4	Informatika	30	120
+5	Fizika	50	100
+6	Kémia	50	100
+7	Angol	30	120
+8	Német	30	120
+9	Földrajz	50	100
+10	Biológia	50	100
