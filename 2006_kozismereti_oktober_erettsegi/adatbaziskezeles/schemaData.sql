@@ -19,10 +19,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Adatbázis: `erettsegi_2006e_oktober_erettsegi`
+-- Adatbázis: `erettsegi_2006e_oktober_foglalkoztatas`
 --
-CREATE DATABASE IF NOT EXISTS `erettsegi_2006e_oktober_erettsegi` DEFAULT CHARACTER SET utf8 COLLATE utf8_hungarian_ci;
-USE `erettsegi_2006e_oktober_erettsegi`;
+CREATE DATABASE IF NOT EXISTS `erettsegi_2006e_oktober_foglalkoztatas` DEFAULT CHARACTER SET utf8 COLLATE utf8_hungarian_ci;
+USE `erettsegi_2006e_oktober_foglalkoztatas`;
 
 -- --------------------------------------------------------
 
